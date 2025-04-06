@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "anatol"  #这里设置主题，主题的本体文件在themes里
+theme = "anatole"  #这里设置主题，主题的本体文件在themes里
