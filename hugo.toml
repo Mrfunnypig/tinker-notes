@@ -2,3 +2,11 @@ baseURL = 'https://mrfunnypig.github.io/tinker-notes/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "anatole"  #这里设置主题，主题的本体文件在themes里
+[params]
+  name = "Mrfunnypig"                     # ✅ 会显示在头像下方
+  author = "Mrfunnypig"                   # ✅ 会出现在文章信息 / RSS / SEO 中
+  profilePicture = "images/me.jpg"        # ✅ 显示你的头像
+  description = "有一份光发一份热"  # ✅ 显示在头像下方简介
+  readMore = true                         # ✅ 首页显示“Read more”链接
+  mainSections = ["life"]                 # ✅ 首页显示哪些内容目录
+  #favicon = "images/favicon.ico"          # 可选：你的网页小图标

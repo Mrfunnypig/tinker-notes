@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/life/first_day/</loc>
+    <loc>http://localhost:1313/tinker-notes/life/</loc>
     <lastmod>2025-04-06T17:07:56+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/life/</loc>
+    <loc>http://localhost:1313/tinker-notes/</loc>
     <lastmod>2025-04-06T17:07:56+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>http://localhost:1313/tinker-notes/life/first_day/</loc>
     <lastmod>2025-04-06T17:07:56+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/tinker-notes/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/tinker-notes/tags/</loc>
   </url>
 </urlset>
